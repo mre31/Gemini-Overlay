@@ -33,6 +33,7 @@ A lightweight desktop assistant that provides quick access to Google's Gemini AP
    API_KEY_1=your_first_api_key
    API_KEY_2=your_second_api_key
    ```
+4. Remove any unused lines. There should be 1 line for each API key.
 
 ## Usage
 
